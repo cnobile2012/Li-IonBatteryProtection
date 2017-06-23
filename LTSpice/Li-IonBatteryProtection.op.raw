@@ -1,0 +1,96 @@
+Title: * H:\src\GitHub\Li-IonBatteryProtection\LTSpice\Li-IonBatteryProtection.asc
+Date: Wed Jun 21 21:44:09 2017
+Plotname: Operating Point
+Flags: real
+No. Variables: 78
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV -- Alternate Solver
+Backannotation: q3 1 2 3
+Backannotation: u2 1 2 3 4
+Backannotation: u4 1 2 3 4
+Backannotation: u1 1 2 3 4 5 6
+Backannotation: u3 1 2 3 4 5 6
+Variables:
+	0	V(sawtooth-1)	voltage
+	1	V(-comp-1)	voltage
+	2	V(+comp-1)	voltage
+	3	V(out-comp-1)	voltage
+	4	V(output+v)	voltage
+	5	V(output-v)	voltage
+	6	V(bias-4)	voltage
+	7	V(bias-1-c1)	voltage
+	8	V(n004)	voltage
+	9	V(n003)	voltage
+	10	V(bias-2)	voltage
+	11	V(out-comp-2)	voltage
+	12	V(+comp-2)	voltage
+	13	V(sawtooth-2)	voltage
+	14	V(-comp-2)	voltage
+	15	V(bias-1-c2)	voltage
+	16	V(n002)	voltage
+	17	V(n001)	voltage
+	18	V(bias-3)	voltage
+	19	Ic(Q2)	device_current
+	20	Ib(Q2)	device_current
+	21	Ie(Q2)	device_current
+	22	Ic(Q4)	device_current
+	23	Ib(Q4)	device_current
+	24	Ie(Q4)	device_current
+	25	Ic(Q1)	device_current
+	26	Ib(Q1)	device_current
+	27	Ie(Q1)	device_current
+	28	I(C3)	device_current
+	29	I(C2)	device_current
+	30	I(C1)	device_current
+	31	I(C4)	device_current
+	32	I(Z2)	device_current
+	33	I(Z1)	device_current
+	34	I(R8)	device_current
+	35	I(R10)	device_current
+	36	I(R17)	device_current
+	37	I(R16)	device_current
+	38	I(R14)	device_current
+	39	I(R13)	device_current
+	40	I(R12)	device_current
+	41	I(R11)	device_current
+	42	I(R15)	device_current
+	43	I(R7)	device_current
+	44	I(R9)	device_current
+	45	I(R6)	device_current
+	46	I(R5)	device_current
+	47	I(Rload)	device_current
+	48	I(R4)	device_current
+	49	I(R3)	device_current
+	50	I(R2)	device_current
+	51	I(R1)	device_current
+	52	I(V3)	device_current
+	53	I(V2)	device_current
+	54	I(V1)	device_current
+	55	Ix(q3:1)	subckt_current
+	56	Ix(q3:2)	subckt_current
+	57	Ix(q3:3)	subckt_current
+	58	Ix(u2:1)	subckt_current
+	59	Ix(u2:2)	subckt_current
+	60	Ix(u2:3)	subckt_current
+	61	Ix(u2:4)	subckt_current
+	62	Ix(u4:1)	subckt_current
+	63	Ix(u4:2)	subckt_current
+	64	Ix(u4:3)	subckt_current
+	65	Ix(u4:4)	subckt_current
+	66	Ix(u1:1)	subckt_current
+	67	Ix(u1:2)	subckt_current
+	68	Ix(u1:3)	subckt_current
+	69	Ix(u1:4)	subckt_current
+	70	Ix(u1:5)	subckt_current
+	71	Ix(u1:6)	subckt_current
+	72	Ix(u3:1)	subckt_current
+	73	Ix(u3:2)	subckt_current
+	74	Ix(u3:3)	subckt_current
+	75	Ix(u3:4)	subckt_current
+	76	Ix(u3:5)	subckt_current
+	77	Ix(u3:6)	subckt_current
+Binary:
+ÍÌÌÌÌÌ@¯D@ƒ;b@ˆ>?fffA;ê>fffAÜÇ;?\Ïø>\Í?™B;=DôŠ@õPä@ffæ@;Õ@/¬Š@)À‚@TŠ¦@­B;=”Â}-öÅ{­aMþ©ä;ˆ<îˆ¸8môˆ¼ä;ˆ<îˆ¸8môˆ¼DÏu0ý=Ž·¬ì²s#'áa¸'áa¸öÅ{-û$<:ä;ˆ<îˆ¸¸C¸ï7ÚN¿6Ìˆ8Õ
+a8»5y¸ä;ˆ<77­îˆ¸¸»5y¸çá@C¸ï7ÚN¿6Ìˆ8Õ
+a8¯Ž¼öìáÀ¯Ž¼çá@íz•*çáÀä;ˆ<ä;ˆ¼û$¼9û$¼¹ä;ˆ<ä;ˆ¼û$¼9û$¼¹rÚ„,>QV´ÝÃ':x¶'º³’L+³’L«rÚ„,>QV´ÝÃ':x¶'º³’L+³’L«

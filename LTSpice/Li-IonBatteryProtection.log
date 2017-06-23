@@ -1,0 +1,28 @@
+Circuit: * H:\src\GitHub\Li-IonBatteryProtection\LTSpice\Li-IonBatteryProtection.asc
+
+Warning: Multiple definitions of model "1n4733" Type: Diode
+Limiting fall time of source v3 to 1.9984e-016
+Limiting fall time of source v2 to 1.9984e-016
+Limiting fall time of source v1 to 1.9984e-016
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1 ++++++++++++++++++++++++++++++to 1
+Heightened Def Con from 1 ++++++++++++++++++++++++to 1
+
+Date: Wed Jun 21 21:44:10 2017
+Total elapsed time: 0.396 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8895
+traniter = 8856
+tranpoints = 2024
+accept = 1511
+rejected = 569
+matrix size = 74
+fillins = 74
+solver = Alternate
+Matrix Compiler1: 8.44 KB object code size  2.6/1.7/[1.1]
+Matrix Compiler2: 8.75 KB object code size  1.4/1.7/[1.1]
+
+

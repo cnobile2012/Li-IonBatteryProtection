@@ -1,0 +1,2 @@
+.MODEL 1N4733 D IS=7.03E-16 RS=0.871 TT=5.01E-8 CJO=1.89E-10 VJ=0.75
++M=0.33 BV=5.059 IBV=0.0490 Vpk=5.1 mfg=Motorola_1W type=zener
