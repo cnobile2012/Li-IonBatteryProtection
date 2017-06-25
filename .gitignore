@@ -5,6 +5,7 @@
 .DS_Store
 *.txt
 *.pdf
+*[.-]bak
 .~lock.*
 logs/*.log*
 old
