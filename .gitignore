@@ -11,6 +11,8 @@ logs/*.log*
 old
 docs/htmlcov
 !LICENSE.txt
+*.zip
+*.tar.gz
 
 # C extensions
 *.so
