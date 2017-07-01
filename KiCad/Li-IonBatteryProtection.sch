@@ -1046,113 +1046,129 @@ Wire Wire Line
 Wire Wire Line
 	2300 1200 2300 1900
 $Comp
-L TEST_1P W1
+L TEST_1P TP1
 U 1 1 5957C591
 P 2000 7650
-F 0 "W1" H 2000 7920 50  0000 C CNN
-F 1 "TEST_1P" H 2000 7850 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 7650 50  0001 C CNN
+F 0 "TP1" H 2000 7850 50  0000 C CNN
+F 1 "TEST_1P" H 2000 7850 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 2200 7650 50  0001 C CNN
 F 3 "" H 2200 7650 50  0000 C CNN
 	1    2000 7650
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST_1P W2
+L TEST_1P TP2
 U 1 1 5957C682
 P 2000 5950
-F 0 "W2" H 2000 6220 50  0000 C CNN
-F 1 "TEST_1P" H 2000 6150 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 5950 50  0001 C CNN
+F 0 "TP2" H 2000 6150 50  0000 C CNN
+F 1 "TEST_1P" H 2000 6150 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 2200 5950 50  0001 C CNN
 F 3 "" H 2200 5950 50  0000 C CNN
 	1    2000 5950
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST_1P W3
+L TEST_1P TP3
 U 1 1 5957C733
 P 2000 4250
-F 0 "W3" H 2000 4520 50  0000 C CNN
-F 1 "TEST_1P" H 2000 4450 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 4250 50  0001 C CNN
+F 0 "TP3" H 2000 4450 50  0000 C CNN
+F 1 "TEST_1P" H 2000 4450 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 2200 4250 50  0001 C CNN
 F 3 "" H 2200 4250 50  0000 C CNN
 	1    2000 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST_1P W4
+L TEST_1P TP4
 U 1 1 5957C7BC
 P 2000 2500
-F 0 "W4" H 2000 2770 50  0000 C CNN
-F 1 "TEST_1P" H 2000 2700 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 2500 50  0001 C CNN
+F 0 "TP4" H 2000 2700 50  0000 C CNN
+F 1 "TEST_1P" H 2000 2700 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 2200 2500 50  0001 C CNN
 F 3 "" H 2200 2500 50  0000 C CNN
 	1    2000 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST_1P W5
+L TEST_1P TP5
 U 1 1 5957C889
 P 2000 800
-F 0 "W5" H 2000 1070 50  0000 C CNN
-F 1 "TEST_1P" H 2000 1000 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 800 50  0001 C CNN
+F 0 "TP5" H 2000 1000 50  0000 C CNN
+F 1 "TEST_1P" H 2000 1000 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 2200 800 50  0001 C CNN
 F 3 "" H 2200 800 50  0000 C CNN
 	1    2000 800 
 	1    0    0    -1  
 $EndComp
 $Comp
-L TEST_1P W6
+L TEST_1P TP6
 U 1 1 5957D045
 P 3700 6550
-F 0 "W6" H 3700 6820 50  0000 C CNN
-F 1 "TEST_1P" H 3700 6750 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 6550 50  0001 C CNN
+F 0 "TP6" V 3700 6820 50  0000 C CNN
+F 1 "TEST_1P" H 3700 6750 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 3900 6550 50  0001 C CNN
 F 3 "" H 3900 6550 50  0000 C CNN
 	1    3700 6550
 	0    1    1    0   
 $EndComp
 $Comp
-L TEST_1P W7
+L TEST_1P TP7
 U 1 1 5957D1F2
 P 3700 4750
-F 0 "W7" H 3700 5020 50  0000 C CNN
-F 1 "TEST_1P" H 3700 4950 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 4750 50  0001 C CNN
+F 0 "TP7" V 3700 5020 50  0000 C CNN
+F 1 "TEST_1P" H 3700 4950 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 3900 4750 50  0001 C CNN
 F 3 "" H 3900 4750 50  0000 C CNN
 	1    3700 4750
 	0    1    1    0   
 $EndComp
 $Comp
-L TEST_1P W8
+L TEST_1P TP8
 U 1 1 5957D29D
 P 3700 3050
-F 0 "W8" H 3700 3320 50  0000 C CNN
-F 1 "TEST_1P" H 3700 3250 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 3050 50  0001 C CNN
+F 0 "TP8" V 3700 3320 50  0000 C CNN
+F 1 "TEST_1P" H 3700 3250 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 3900 3050 50  0001 C CNN
 F 3 "" H 3900 3050 50  0000 C CNN
 	1    3700 3050
 	0    1    1    0   
 $EndComp
 $Comp
-L TEST_1P W9
+L TEST_1P TP9
 U 1 1 5957D346
 P 3700 1300
-F 0 "W9" H 3700 1570 50  0000 C CNN
-F 1 "TEST_1P" H 3700 1500 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 1300 50  0001 C CNN
+F 0 "TP9" V 3700 1570 50  0000 C CNN
+F 1 "TEST_1P" H 3700 1500 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 3900 1300 50  0001 C CNN
 F 3 "" H 3900 1300 50  0000 C CNN
 	1    3700 1300
 	0    1    1    0   
 $EndComp
 $Comp
-L TEST_1P W10
+L TEST_1P TP10
 U 1 1 5957E037
 P 6000 3250
-F 0 "W10" H 6000 3520 50  0000 C CNN
-F 1 "TEST_1P" H 6000 3450 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 6200 3250 50  0001 C CNN
+F 0 "TP10" V 6000 3520 50  0000 C CNN
+F 1 "TEST_1P" H 6000 3450 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 6200 3250 50  0001 C CNN
 F 3 "" H 6200 3250 50  0000 C CNN
 	1    6000 3250
 	0    1    1    0   
+$EndComp
+Connection ~ 2000 7650
+Connection ~ 2000 5950
+Connection ~ 2000 4250
+Connection ~ 2000 2500
+Connection ~ 2000 800 
+$Comp
+L TEST_1P TP11
+U 1 1 595800FC
+P 7050 3700
+F 0 "TP11" V 7050 3970 50  0000 C CNN
+F 1 "TEST_1P" H 7050 3900 50  0001 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 7250 3700 50  0001 C CNN
+F 3 "" H 7250 3700 50  0000 C CNN
+	1    7050 3700
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
