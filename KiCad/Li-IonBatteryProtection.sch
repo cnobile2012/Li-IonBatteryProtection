@@ -107,7 +107,7 @@ U 1 1 592CD320
 P 2700 6200
 F 0 "R2" H 2800 6300 50  0000 C CNN
 F 1 "1k" H 2600 6050 50  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 2630 6200 50  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2630 6200 50  0001 C CNN
 F 3 "" H 2700 6200 50  0000 C CNN
 	1    2700 6200
 	1    0    0    -1  
@@ -127,8 +127,8 @@ $Comp
 L R R5
 U 1 1 592CD4C8
 P 3700 6300
-F 0 "R5" H 3800 6450 50  0000 C CNN
-F 1 "100k" H 3850 6150 50  0000 C CNN
+F 0 "R5" H 3800 6400 50  0000 C CNN
+F 1 "100k" H 3850 6300 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 3630 6300 50  0001 C CNN
 F 3 "" H 3700 6300 50  0000 C CNN
 	1    3700 6300
@@ -276,7 +276,7 @@ U 1 1 592E3CB4
 P 2700 4500
 F 0 "R9" H 2800 4600 50  0000 C CNN
 F 1 "1k" H 2600 4350 50  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 2630 4500 50  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2630 4500 50  0001 C CNN
 F 3 "" H 2700 4500 50  0000 C CNN
 	1    2700 4500
 	1    0    0    -1  
@@ -297,7 +297,7 @@ L R R12
 U 1 1 592E3CC0
 P 3700 4500
 F 0 "R12" H 3850 4600 50  0000 C CNN
-F 1 "100k" H 3850 4350 50  0000 C CNN
+F 1 "100k" H 3850 4500 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 3630 4500 50  0001 C CNN
 F 3 "" H 3700 4500 50  0000 C CNN
 	1    3700 4500
@@ -431,7 +431,7 @@ U 1 1 592E4FB4
 P 2700 2750
 F 0 "R16" H 2850 2850 50  0000 C CNN
 F 1 "1k" H 2600 2600 50  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 2630 2750 50  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2630 2750 50  0001 C CNN
 F 3 "" H 2700 2750 50  0000 C CNN
 	1    2700 2750
 	1    0    0    -1  
@@ -452,7 +452,7 @@ L R R19
 U 1 1 592E4FC0
 P 3700 2750
 F 0 "R19" H 3850 2850 50  0000 C CNN
-F 1 "100k" H 3850 2600 50  0000 C CNN
+F 1 "100k" H 3850 2750 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 3630 2750 50  0001 C CNN
 F 3 "" H 3700 2750 50  0000 C CNN
 	1    3700 2750
@@ -584,7 +584,7 @@ U 1 1 592E6483
 P 2700 1050
 F 0 "R23" H 2850 1150 50  0000 C CNN
 F 1 "1k" H 2600 900 50  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 2630 1050 50  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 2630 1050 50  0001 C CNN
 F 3 "" H 2700 1050 50  0000 C CNN
 	1    2700 1050
 	1    0    0    -1  
@@ -605,7 +605,7 @@ L R R26
 U 1 1 592E648F
 P 3700 1050
 F 0 "R26" H 3850 1150 50  0000 C CNN
-F 1 "100k" H 3850 900 50  0000 C CNN
+F 1 "100k" H 3850 1050 50  0000 C CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 3630 1050 50  0001 C CNN
 F 3 "" H 3700 1050 50  0000 C CNN
 	1    3700 1050
@@ -1045,4 +1045,114 @@ Wire Wire Line
 	2300 2400 2300 2300
 Wire Wire Line
 	2300 1200 2300 1900
+$Comp
+L TEST_1P W1
+U 1 1 5957C591
+P 2000 7650
+F 0 "W1" H 2000 7920 50  0000 C CNN
+F 1 "TEST_1P" H 2000 7850 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 7650 50  0001 C CNN
+F 3 "" H 2200 7650 50  0000 C CNN
+	1    2000 7650
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P W2
+U 1 1 5957C682
+P 2000 5950
+F 0 "W2" H 2000 6220 50  0000 C CNN
+F 1 "TEST_1P" H 2000 6150 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 5950 50  0001 C CNN
+F 3 "" H 2200 5950 50  0000 C CNN
+	1    2000 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P W3
+U 1 1 5957C733
+P 2000 4250
+F 0 "W3" H 2000 4520 50  0000 C CNN
+F 1 "TEST_1P" H 2000 4450 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 4250 50  0001 C CNN
+F 3 "" H 2200 4250 50  0000 C CNN
+	1    2000 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P W4
+U 1 1 5957C7BC
+P 2000 2500
+F 0 "W4" H 2000 2770 50  0000 C CNN
+F 1 "TEST_1P" H 2000 2700 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 2500 50  0001 C CNN
+F 3 "" H 2200 2500 50  0000 C CNN
+	1    2000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P W5
+U 1 1 5957C889
+P 2000 800
+F 0 "W5" H 2000 1070 50  0000 C CNN
+F 1 "TEST_1P" H 2000 1000 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 2200 800 50  0001 C CNN
+F 3 "" H 2200 800 50  0000 C CNN
+	1    2000 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L TEST_1P W6
+U 1 1 5957D045
+P 3700 6550
+F 0 "W6" H 3700 6820 50  0000 C CNN
+F 1 "TEST_1P" H 3700 6750 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 6550 50  0001 C CNN
+F 3 "" H 3900 6550 50  0000 C CNN
+	1    3700 6550
+	0    1    1    0   
+$EndComp
+$Comp
+L TEST_1P W7
+U 1 1 5957D1F2
+P 3700 4750
+F 0 "W7" H 3700 5020 50  0000 C CNN
+F 1 "TEST_1P" H 3700 4950 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 4750 50  0001 C CNN
+F 3 "" H 3900 4750 50  0000 C CNN
+	1    3700 4750
+	0    1    1    0   
+$EndComp
+$Comp
+L TEST_1P W8
+U 1 1 5957D29D
+P 3700 3050
+F 0 "W8" H 3700 3320 50  0000 C CNN
+F 1 "TEST_1P" H 3700 3250 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 3050 50  0001 C CNN
+F 3 "" H 3900 3050 50  0000 C CNN
+	1    3700 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L TEST_1P W9
+U 1 1 5957D346
+P 3700 1300
+F 0 "W9" H 3700 1570 50  0000 C CNN
+F 1 "TEST_1P" H 3700 1500 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 3900 1300 50  0001 C CNN
+F 3 "" H 3900 1300 50  0000 C CNN
+	1    3700 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L TEST_1P W10
+U 1 1 5957E037
+P 6000 3250
+F 0 "W10" H 6000 3520 50  0000 C CNN
+F 1 "TEST_1P" H 6000 3450 50  0000 C CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Big" H 6200 3250 50  0001 C CNN
+F 3 "" H 6200 3250 50  0000 C CNN
+	1    6000 3250
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
