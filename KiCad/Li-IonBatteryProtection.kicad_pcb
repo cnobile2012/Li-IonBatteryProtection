@@ -2354,11 +2354,11 @@
     (pad 1 thru_hole circle (at 0 0) (size 5.588 5.588) (drill 4.318) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F76F) (tstamp 5957F6FB)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583DE4) (tstamp 5957F6FB)
     (at 184.15 92.71)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2367,11 +2367,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F75D) (tstamp 5957F714)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583DF9) (tstamp 5957F714)
     (at 196.85 92.71)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2380,11 +2380,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F795) (tstamp 5957F71B)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583E17) (tstamp 5957F71B)
     (at 184.15 110.49)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2393,11 +2393,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F78C) (tstamp 5957F722)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583E24) (tstamp 5957F722)
     (at 196.85 110.49)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2406,11 +2406,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F779) (tstamp 5957F72E)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583E0D) (tstamp 5957F72E)
     (at 196.85 101.6)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2419,11 +2419,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F782) (tstamp 5957F738)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583E03) (tstamp 5957F738)
     (at 184.15 101.6)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
@@ -2432,11 +2432,11 @@
     (pad 1 thru_hole rect (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 5957F764) (tstamp 5957F743)
+  (module Measurement_Points:Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 59583DF0) (tstamp 5957F743)
     (at 190.5 92.71)
     (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
     (tags "Mesurement Point, Square, Trough Hole, 1.5mm x 1.5mm, Drill 0.8mm,")
-    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Measurement_Point_Square-TH_Small (at 0 2.54) (layer F.Fab) hide
