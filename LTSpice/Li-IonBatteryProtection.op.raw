@@ -1,12 +1,12 @@
 Title: * H:\src\GitHub\Li-IonBatteryProtection\LTSpice\Li-IonBatteryProtection.asc
-Date: Wed Jun 21 21:44:09 2017
+Date: Sun Jul 23 11:43:07 2017
 Plotname: Operating Point
 Flags: real
 No. Variables: 78
 No. Points:            1
 Offset:   0.0000000000000000e+000
 Command: Linear Technology Corporation LTspice IV -- Alternate Solver
-Backannotation: q3 1 2 3
+Backannotation: q4 1 2 3
 Backannotation: u2 1 2 3 4
 Backannotation: u4 1 2 3 4
 Backannotation: u1 1 2 3 4 5 6
@@ -15,28 +15,28 @@ Variables:
 	0	V(sawtooth-1)	voltage
 	1	V(-comp-1)	voltage
 	2	V(+comp-1)	voltage
-	3	V(out-comp-1)	voltage
+	3	V(out-u1)	voltage
 	4	V(output+v)	voltage
 	5	V(output-v)	voltage
 	6	V(bias-4)	voltage
-	7	V(bias-1-c1)	voltage
-	8	V(n004)	voltage
+	7	V(n004)	voltage
+	8	V(tp-q1)	voltage
 	9	V(n003)	voltage
 	10	V(bias-2)	voltage
-	11	V(out-comp-2)	voltage
+	11	V(out-u2)	voltage
 	12	V(+comp-2)	voltage
 	13	V(sawtooth-2)	voltage
 	14	V(-comp-2)	voltage
-	15	V(bias-1-c2)	voltage
-	16	V(n002)	voltage
+	15	V(n002)	voltage
+	16	V(tp-q2)	voltage
 	17	V(n001)	voltage
 	18	V(bias-3)	voltage
-	19	Ic(Q2)	device_current
-	20	Ib(Q2)	device_current
-	21	Ie(Q2)	device_current
-	22	Ic(Q4)	device_current
-	23	Ib(Q4)	device_current
-	24	Ie(Q4)	device_current
+	19	Ic(Q3)	device_current
+	20	Ib(Q3)	device_current
+	21	Ie(Q3)	device_current
+	22	Ic(Q2)	device_current
+	23	Ib(Q2)	device_current
+	24	Ie(Q2)	device_current
 	25	Ic(Q1)	device_current
 	26	Ib(Q1)	device_current
 	27	Ie(Q1)	device_current
@@ -67,9 +67,9 @@ Variables:
 	52	I(V3)	device_current
 	53	I(V2)	device_current
 	54	I(V1)	device_current
-	55	Ix(q3:1)	subckt_current
-	56	Ix(q3:2)	subckt_current
-	57	Ix(q3:3)	subckt_current
+	55	Ix(q4:1)	subckt_current
+	56	Ix(q4:2)	subckt_current
+	57	Ix(q4:3)	subckt_current
 	58	Ix(u2:1)	subckt_current
 	59	Ix(u2:2)	subckt_current
 	60	Ix(u2:3)	subckt_current
