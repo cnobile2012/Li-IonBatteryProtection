@@ -14,7 +14,7 @@ LTspice
 
 Spice files for testing the circuit virtually.
 
-Table One: Battery Voltage Normal
+Truth Table One: Battery Voltage Normal
 
 +-------+-------+-------+-------+-------+
 | U1/U3 | Q1/Q2 | U2/U4 |  Q3   |  Q4   |
@@ -24,7 +24,7 @@ Table One: Battery Voltage Normal
 |  NA   |  ON   |  ON   |  OFF  |  ON   |
 +-------+-------+-------+-------+-------+
 
-Table Two: Battery Voltage Below Normal
+Truth Table Two: Battery Voltage Below Normal
 
 +-------+-------+-------+-------+-------+
 | U1/U3 | Q1/Q2 | U2/U4 |  Q3   |  Q4   |
