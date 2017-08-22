@@ -21,7 +21,7 @@ Truth Table One: Battery Voltage Normal
 +=======+=======+=======+=======+=======+
 |  HI   |  LOW  |  LOW  |  HI   |  LOW  |
 +-------+-------+-------+-------+-------+
-|  NA   |  ON   |  ON   |  OFF  |  ON   |
+|  N/A  |  ON   |  ON   |  OFF  |  ON   |
 +-------+-------+-------+-------+-------+
 
 Truth Table Two: Battery Voltage Below Normal
@@ -31,7 +31,7 @@ Truth Table Two: Battery Voltage Below Normal
 +=======+=======+=======+=======+=======+
 |  LOW  |  HI   |  HI   |  LOW  |  HI   |
 +-------+-------+-------+-------+-------+
-|  NA   |  OFF  |  OFF  |  ON   |  OFF  |
+|  N/A  |  OFF  |  OFF  |  ON   |  OFF  |
 +-------+-------+-------+-------+-------+
 
 =====
