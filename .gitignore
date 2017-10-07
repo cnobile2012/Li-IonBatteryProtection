@@ -9,6 +9,8 @@
 .~lock.*
 *.log
 *.raw
+*.net
+*.plt
 logs/*.log*
 old
 docs/htmlcov
