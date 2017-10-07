@@ -8,6 +8,7 @@
 *[.-]bak
 .~lock.*
 *.log
+*.raw
 logs/*.log*
 old
 docs/htmlcov
